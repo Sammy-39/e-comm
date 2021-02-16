@@ -1,6 +1,8 @@
 # E-Comm
 
-E-Commerce app UI Clone to list products from products-api. 
+E-Commerce app UI Clone to list products from products-api.
+
+Backend repo - https://github.com/Sammy-39/e-comm-backend
 
 API endpoint - https://e-comm-backend-app.herokuapp.com/api/products
 

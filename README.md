@@ -1,6 +1,8 @@
 # E-Comm
 
-E-Commerce app UI Clone to list products from api
+E-Commerce app UI Clone to list products from products-api
+
+hosted at - https://priceless-minsky-8f9012.netlify.app/
 
 api endpoint - https://e-comm-backend-app.herokuapp.com/api/products
 

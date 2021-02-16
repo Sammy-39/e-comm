@@ -1,3 +1,10 @@
+# E-Comm
+
+E-Commerce app UI Clone to list products from api
+
+api endpoint - https://e-comm-backend-app.herokuapp.com/api/products
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

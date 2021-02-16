@@ -1,0 +1,44 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 285px;
+    height: auto;
+    margin-bottom: 25px;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.card-img{
+    margin-top: 10px;
+    align-self: center;
+}
+
+.card-content{
+    margin-top: 10px;
+    align-self: flex-start;
+}
+
+.card-content p{
+    margin: 0px;
+}
+
+.pro-name{
+    font-size: 18px;
+    color: blue;
+}
+
+.pro-brand{
+    font-size: 15px;
+}
+
+.pro-price{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.card-content p span{
+    color: yellowgreen;
+}
+

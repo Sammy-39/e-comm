@@ -1,0 +1,26 @@
+.nav-left{
+    display: flex;
+}
+
+.nav-icon{
+    font-size: 35px;
+    color: rgb(255, 255, 0);
+    margin-right: 10px;
+}
+
+.nav-middle{
+    display: flex;
+}
+
+.nav-right{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn{
+    padding: 6px 18px;
+}
+
+.btn:hover{
+    background-color: rgb(255, 255, 0, 0.6);
+}

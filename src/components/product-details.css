@@ -1,0 +1,51 @@
+.back-btn{
+    position: relative;
+    left: -100px;
+    top: 0px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.product-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.product-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.product-content-left{
+    margin-top: 10px;
+    align-self: flex-start;
+}
+
+.product-content-left p{
+    margin: 0px;
+}
+
+.pro-name{
+    font-size: 18px;
+    color: blue;
+}
+
+.pro{
+    font-size: 15px;
+}
+
+.pro-price{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.product-content-left p span{
+    color: yellowgreen;
+}
+
+.product-content-right{
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+}
